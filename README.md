@@ -1,4 +1,4 @@
-# Leaf-HealthPlusPlus
+# Leaf-Health++
 
 ## **Inspiration**
 
