@@ -37,7 +37,6 @@ sketch
 
 ## **Screenshots**
 
-![image](https://cloud.githubusercontent.com/assets/20146109/20077190/4576ce66-a4f0-11e6-8376-5346533f74eb.png)
 ![image](https://cloud.githubusercontent.com/assets/20146109/20077209/53e6b060-a4f0-11e6-86c6-fb9810556cf0.png)
 ![image](https://cloud.githubusercontent.com/assets/20146109/20077218/62e59bc6-a4f0-11e6-905d-37e1cbac3abf.png)
 ![image](https://cloud.githubusercontent.com/assets/20146109/20077269/969f20a4-a4f0-11e6-819b-c6c81d0ad88e.png)
