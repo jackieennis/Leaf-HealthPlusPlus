@@ -1,4 +1,4 @@
-# Leaf-Health++
+# Leaf - Stanford Health++ Hackathon
 ![image](https://cloud.githubusercontent.com/assets/20146109/20077190/4576ce66-a4f0-11e6-8376-5346533f74eb.png)
 
 ## **Inspiration**
